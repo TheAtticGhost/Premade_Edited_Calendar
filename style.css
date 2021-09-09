@@ -2,7 +2,7 @@
 
 body {
   font-family: "Varela Round", "Times New Roman", sans-serif;
-  background-color: #ffdfd8;
+
   height: 100vh;
 }
 
@@ -23,7 +23,7 @@ button::-moz-focus-inner {
   margin: 20px 0;
   position: relative;
   overflow: hidden;
-  height: 298px;
+  height: 320px;
   width: 350px;
   font-size: 12px;
   text-transform: uppercase;
