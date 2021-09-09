@@ -23,7 +23,7 @@ button::-moz-focus-inner {
   margin: 20px 0;
   position: relative;
   overflow: hidden;
-  height: 310px;
+  height: 300px;
   width: 350px;
   font-size: 12px;
   text-transform: uppercase;
